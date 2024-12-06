@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerapi\\expensetrackerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|solutionrelative:expensetrackerapi\\expensetrackerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerbusinesslayer\\services\\expenseservice\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|solutionrelative:expensetrackerbusinesslayer\\services\\expenseservice\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBEDD22-9618-4A04-8304-36515B374D04}|SharedDtos\\SharedDtos.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\shareddtos\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBEDD22-9618-4A04-8304-36515B374D04}|SharedDtos\\SharedDtos.csproj|solutionrelative:shareddtos\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Migrations\\20241206215619_Initial_Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTrackerDataAccessLayer\\Migrations\\20241206215619_Initial_Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|solutionrelative:expensetrackerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\entities\\bodget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\entities\\bodget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\repositories\\categoryrepo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\repositories\\categoryrepo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\repositories\\expenserepo\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\repositories\\expenserepo\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBEDD22-9618-4A04-8304-36515B374D04}|SharedDtos\\SharedDtos.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\shareddtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBEDD22-9618-4A04-8304-36515B374D04}|SharedDtos\\SharedDtos.csproj|solutionrelative:shareddtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBEDD22-9618-4A04-8304-36515B374D04}|SharedDtos\\SharedDtos.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\shareddtos\\bodgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBEDD22-9618-4A04-8304-36515B374D04}|SharedDtos\\SharedDtos.csproj|solutionrelative:shareddtos\\bodgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerbusinesslayer\\services\\bodgetservice\\bodgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|solutionrelative:expensetrackerbusinesslayer\\services\\bodgetservice\\bodgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerbusinesslayer\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|solutionrelative:expensetrackerbusinesslayer\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\repositories\\categoryrepo\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\repositories\\categoryrepo\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|solutionrelative:expensetrackerapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerapi\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|solutionrelative:expensetrackerapi\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerapi\\controllers\\bodgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|solutionrelative:expensetrackerapi\\controllers\\bodgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\data\\apllicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\data\\apllicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Migrations\\20241206190606_Initial_DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTrackerDataAccessLayer\\Migrations\\20241206190606_Initial_DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|solutionrelative:expensetrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerbusinesslayer\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|solutionrelative:expensetrackerbusinesslayer\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerbusinesslayer\\services\\bodgetservice\\ibodgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|solutionrelative:expensetrackerbusinesslayer\\services\\bodgetservice\\ibodgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|solutionrelative:expensetrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerbusinesslayer\\services\\expenseservice\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|solutionrelative:expensetrackerbusinesslayer\\services\\expenseservice\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\repositories\\bodgetrepo\\bodgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\repositories\\bodgetrepo\\bodgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\repositories\\bodgetrepo\\ibodgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\repositories\\bodgetrepo\\ibodgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\repositories\\expenserepo\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\repositories\\expenserepo\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerbusinesslayer\\expensetrackerbusinesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|solutionrelative:expensetrackerbusinesslayer\\expensetrackerbusinesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerbusinesslayer\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B01D9E9-300A-49D2-A983-9C1E8E70424B}|ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj|solutionrelative:expensetrackerbusinesslayer\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerdataaccesslayer\\expensetrackerdataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A187B1DA-959D-4DE0-8919-02CE7321DBA7}|ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj|solutionrelative:expensetrackerdataaccesslayer\\expensetrackerdataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\expensetracker\\expensetrackerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62D29730-3F94-4E45-A52F-F759C9813E3A}|ExpenseTrackerApi\\ExpenseTrackerApi.csproj|solutionrelative:expensetrackerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4140C659-3806-499B-8A3E-B1DFD6DEE75B}|Solution Items{4140C659-3806-499B-8A3E-B1DFD6DEE75B}|C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4140C659-3806-499B-8A3E-B1DFD6DEE75B}|Solution Items{4140C659-3806-499B-8A3E-B1DFD6DEE75B}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241206215619_Initial_Db.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Migrations\\20241206215619_Initial_Db.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Migrations\\20241206215619_Initial_Db.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Migrations\\20241206215619_Initial_Db.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Migrations\\20241206215619_Initial_Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:56:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseTrackerApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\ExpenseTrackerApi.csproj",
+              "RelativeDocumentMoniker": "ExpenseTrackerApi\\ExpenseTrackerApi.csproj",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\ExpenseTrackerApi.csproj",
+              "RelativeToolTip": "ExpenseTrackerApi\\ExpenseTrackerApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T21:07:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\SharedDtos\\ExpenseDto.cs",
+              "RelativeDocumentMoniker": "SharedDtos\\ExpenseDto.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\SharedDtos\\ExpenseDto.cs",
+              "RelativeToolTip": "SharedDtos\\ExpenseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:34:13.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\ExpenseService\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerBusinessLayer\\Services\\ExpenseService\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\ExpenseService\\ExpenseService.cs",
+              "RelativeToolTip": "ExpenseTrackerBusinessLayer\\Services\\ExpenseService\\ExpenseService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:11:54.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ExpenseTrackerApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:51:52.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\CategoryRepo\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Repositories\\CategoryRepo\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\CategoryRepo\\CategoryRepository.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Repositories\\CategoryRepo\\CategoryRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:46:54.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Entities\\User.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:40:36.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bodget.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Entities\\Bodget.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Entities\\Bodget.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Entities\\Bodget.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Entities\\Bodget.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:11:51.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAApwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:50:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Entities\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Entities\\Expense.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Entities\\Expense.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Entities\\Expense.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:36:56.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:43:45.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\ExpenseRepo\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Repositories\\ExpenseRepo\\ExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\ExpenseRepo\\ExpenseRepository.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Repositories\\ExpenseRepo\\ExpenseRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:18:29.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\SharedDtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "SharedDtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\SharedDtos\\CategoryDto.cs",
+              "RelativeToolTip": "SharedDtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:35:55.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BodgetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\SharedDtos\\BodgetDto.cs",
+              "RelativeDocumentMoniker": "SharedDtos\\BodgetDto.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\SharedDtos\\BodgetDto.cs",
+              "RelativeToolTip": "SharedDtos\\BodgetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:10:24.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerBusinessLayer\\Services\\CategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "ExpenseTrackerBusinessLayer\\Services\\CategoryService\\CategoryService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:54:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BodgetService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\BodgetService\\BodgetService.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerBusinessLayer\\Services\\BodgetService\\BodgetService.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\BodgetService\\BodgetService.cs",
+              "RelativeToolTip": "ExpenseTrackerBusinessLayer\\Services\\BodgetService\\BodgetService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:37:09.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\CategoryRepo\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Repositories\\CategoryRepo\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\CategoryRepo\\ICategoryRepository.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Repositories\\CategoryRepo\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:22:15.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ExpenseTrackerApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwB4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:30:17.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApi\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ExpenseTrackerApi\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:26:16.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BodgetController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Controllers\\BodgetController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApi\\Controllers\\BodgetController.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Controllers\\BodgetController.cs",
+              "RelativeToolTip": "ExpenseTrackerApi\\Controllers\\BodgetController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:02:36.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApllicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Data\\ApllicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Data\\ApllicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Data\\ApllicationDbContextFactory.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Data\\ApllicationDbContextFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:05:14.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241206190606_Initial_DB.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Migrations\\20241206190606_Initial_DB.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Migrations\\20241206190606_Initial_DB.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Migrations\\20241206190606_Initial_DB.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Migrations\\20241206190606_Initial_DB.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:06:07.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTrackerApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\appsettings.json",
+              "RelativeToolTip": "ExpenseTrackerApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T22:41:31.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerBusinessLayer\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "ExpenseTrackerBusinessLayer\\Services\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:51:49.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBodgetService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\BodgetService\\IBodgetService.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerBusinessLayer\\Services\\BodgetService\\IBodgetService.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\BodgetService\\IBodgetService.cs",
+              "RelativeToolTip": "ExpenseTrackerBusinessLayer\\Services\\BodgetService\\IBodgetService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:36:52.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Program.cs",
+              "RelativeToolTip": "ExpenseTrackerApi\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAnwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:00:07.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\ExpenseService\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerBusinessLayer\\Services\\ExpenseService\\IExpenseService.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Services\\ExpenseService\\IExpenseService.cs",
+              "RelativeToolTip": "ExpenseTrackerBusinessLayer\\Services\\ExpenseService\\IExpenseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:12:31.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BodgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\BodgetRepo\\BodgetRepository.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Repositories\\BodgetRepo\\BodgetRepository.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\BodgetRepo\\BodgetRepository.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Repositories\\BodgetRepo\\BodgetRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:59:09.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBodgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\BodgetRepo\\IBodgetRepository.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Repositories\\BodgetRepo\\IBodgetRepository.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\BodgetRepo\\IBodgetRepository.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Repositories\\BodgetRepo\\IBodgetRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:00:21.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\ExpenseRepo\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\Repositories\\ExpenseRepo\\IExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\Repositories\\ExpenseRepo\\IExpenseRepository.cs",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\Repositories\\ExpenseRepo\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:18:07.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExpenseTrackerBusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj",
+              "RelativeDocumentMoniker": "ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj",
+              "RelativeToolTip": "ExpenseTrackerBusinessLayer\\ExpenseTrackerBusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T14:50:20.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerBusinessLayer\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerBusinessLayer\\Results\\Result.cs",
+              "RelativeToolTip": "ExpenseTrackerBusinessLayer\\Results\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:51:07.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExpenseTrackerDataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj",
+              "RelativeToolTip": "ExpenseTrackerDataAccessLayer\\ExpenseTrackerDataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T19:08:37.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExpenseTrackerApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\ExpenseTrackerApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExpenseTrackerApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T22:41:26.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\ExpenseTracker\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-03T20:48:38.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

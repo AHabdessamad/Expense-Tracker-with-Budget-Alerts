@@ -1,0 +1,17 @@
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ExpenseTrackerBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ExpenseTrackerBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ExpenseTrackerBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ExpenseTrackerBusinessLayer.AssemblyInfo.cs
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ExpenseTrackerBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\bin\Debug\net8.0\ExpenseTrackerBusinessLayer.deps.json
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\bin\Debug\net8.0\ExpenseTrackerBusinessLayer.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\bin\Debug\net8.0\ExpenseTrackerBusinessLayer.pdb
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\bin\Debug\net8.0\ExpenseTrackerDataAccessLayer.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\bin\Debug\net8.0\SharedDtos.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\bin\Debug\net8.0\ExpenseTrackerDataAccessLayer.pdb
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\bin\Debug\net8.0\SharedDtos.pdb
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ExpenseT.36A47C42.Up2Date
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ExpenseTrackerBusinessLayer.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\refint\ExpenseTrackerBusinessLayer.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ExpenseTrackerBusinessLayer.pdb
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerBusinessLayer\obj\Debug\net8.0\ref\ExpenseTrackerBusinessLayer.dll

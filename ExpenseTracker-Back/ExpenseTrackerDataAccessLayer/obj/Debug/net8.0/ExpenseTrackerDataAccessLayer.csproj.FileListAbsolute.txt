@@ -1,0 +1,17 @@
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseTrackerDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseTrackerDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseTrackerDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseTrackerDataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseTrackerDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\bin\Debug\net8.0\ExpenseTrackerDataAccessLayer.deps.json
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\bin\Debug\net8.0\ExpenseTrackerDataAccessLayer.runtimeconfig.json
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\bin\Debug\net8.0\ExpenseTrackerDataAccessLayer.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\bin\Debug\net8.0\ExpenseTrackerDataAccessLayer.pdb
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\bin\Debug\net8.0\SharedDtos.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\bin\Debug\net8.0\SharedDtos.pdb
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseT.757ECFBD.Up2Date
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseTrackerDataAccessLayer.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\refint\ExpenseTrackerDataAccessLayer.dll
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseTrackerDataAccessLayer.pdb
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ExpenseTrackerDataAccessLayer.genruntimeconfig.cache
+C:\Users\Abdessamad AH\source\repos\ExpenseTracker\ExpenseTrackerDataAccessLayer\obj\Debug\net8.0\ref\ExpenseTrackerDataAccessLayer.dll
